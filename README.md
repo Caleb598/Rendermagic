@@ -2,7 +2,7 @@
 
 ![Rendermagic Logo](logo.png)
 
-Rendermagic is a basic render engine designed to provide a simple framework for rendering 3D scenes. It includes several core components: an interface for scene setup and interaction, a basic modeling system, a basic shading system, a basic animation system, and a basic rendering system. This README will guide you through the key features and usage of Rendermagic.
+Rendermagic is a rendering program that generates high-quality photorealistic 3D images in a speedy amount of time. Some of the big features implemented into Rendermagic are physically based rendering (PBR), global illumination and real-time ray tracing. Rendermagic includes several core components: an interface for scene setup and interaction, a basic modeling system, a basic shading system, a basic animation system, and a basic rendering system. This README will guide you through the key features and usage of Rendermagic.
 
 ## Table of Contents
 
@@ -65,4 +65,4 @@ Rendermagic is licensed under the [MIT License](LICENSE). You are free to use, m
 
 ---
 
-We hope Rendermagic serves as a helpful tool for understanding the basics of rendering. While it may not be as powerful as professional renderers, it provides a platform to experiment and learn. If you have any questions, issues, or suggestions, please don't hesitate to reach out to us. Happy rendering!
+We hope Rendermagic serves as a helpful tool for understanding the basics of rendering. Rendermagic is powerful, efficient and easy to use. While it may not be as powerful as professional renderers, it provides a platform to experiment and learn. If you have any questions, issues, or suggestions, please don't hesitate to reach out to us. Happy rendering!
