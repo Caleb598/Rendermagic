@@ -61,7 +61,7 @@ We welcome contributions to Rendermagic! If you find bugs, want to add features,
 
 ## License
 
-Rendermagic is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software for your purposes. Attribution is appreciated but not required.
+Rendermagic is licensed under the [GNU License](LICENSE). You are free to use, modify, and distribute this software for your purposes. Attribution is appreciated but not required.
 
 ---
 
