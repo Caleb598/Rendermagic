@@ -19,3 +19,6 @@ Cons: Highly Technical and limited capability of doing more advanced rendering
 
 # Acclaim for Rendermagic
 It won third place in the VPRSF Science Fair on March 23, 2024. It was in the Computer Science category. 
+
+# Additional Things and Troubles
+You will need to create a folder called "frames" in order for the code to work. This will store frames of animation into the folder. After running the code, you can get a video by assessing your Videos section and it should be named "animation.mp4".
